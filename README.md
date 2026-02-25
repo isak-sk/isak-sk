@@ -1,4 +1,5 @@
-[![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iskoog.dev)
+[![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=ntfy&logoColor=white)](https://iskoog.dev)
+
 
 # Interests
 - Scalable and distributed systems
