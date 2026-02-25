@@ -1,9 +1,12 @@
+[![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iskoog.dev)
+
 # Interests
-- Systems and architecture
-- Logic and backend
-- Scripting and automation
+- Scalable and distributed systems
+- Software architecture
+- Backend development
+- Automation & Scripting
 
 # Current
-Studying in sweden. Doing some personal side projects.
-Always learning new things.
+I am currently a student in Sweden and am working as a Software Developer.
 
+This Github is my personal github, and is used for sideprojects. (Which i am bad at doing)
