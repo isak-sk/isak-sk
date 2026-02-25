@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=ntfy&logoColor=white)](https://iskoog.dev)
+[![Website](https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=ntfy&logoColor=white)](https://iskoog.dev)
 
 
 # Interests
